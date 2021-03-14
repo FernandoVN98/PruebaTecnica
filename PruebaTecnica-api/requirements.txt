@@ -1,0 +1,6 @@
+flasgger==0.9.5
+configparser
+pandas
+flask
+neo4j
+sklearn

@@ -1,0 +1,4 @@
+[database]
+uri=neo4j://localhost:11010
+user=neo4j
+password=12345
