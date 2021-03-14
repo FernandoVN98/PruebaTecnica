@@ -1,4 +1,4 @@
-# Prueba Tecnia
+# Prueba Tecnica
 Readme de la prueba técnica.
 
 
