@@ -16,6 +16,18 @@ Por último falta la fase de Retain, para la cual se creó una función con la q
 ## Environment
 Se empleó la versión de Python 3.8.5.
 Para la base de datos de grafos se utilizó Neo4J y su versión en escritorio. Se adjunta un archivo en este repositorio para llenar la base de datos de información, es el archivo "database_pruebaTecnica.cypher". Este archivo se carga en la aplicación de escritorio de Neo4J o se copia su contenido dentro y la base de datos estará lista.
+
+Un DBMS debe estar corriendo cuando se ejecuta la aplicación. Este DBMS debe contener los datos anteriormente mencionados para su consumo por parte de las funciones.
  
 Otro archivo es el "config.txt", en este archivo se introducen la uri, el user y la password de la base de datos. Se deberán modificar los valores para poner los datos de quien quiera ejecutar el programa.
  
+## Execute
+Los comandos para ejecutar la aplicación son los siguientes (se debe estar en el repositorio PruebaTecnica-api):
+
+$ virtualenv flask
+
+$ flask/bin/pip install flask
+
+$ flask/bin/pip install -r requirements.txt 
+
+$ ./RESTAPI.py
