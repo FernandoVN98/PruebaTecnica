@@ -1,5 +1,5 @@
-# SlashMobility-Entregar
-Readme de la prueba técnica solicitada en SlashMobility.
+# Prueba Tecnia
+Readme de la prueba técnica.
 
 
 ## Objetivo
