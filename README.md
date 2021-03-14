@@ -22,6 +22,9 @@ Un DBMS debe estar corriendo cuando se ejecuta la aplicación. Este DBMS debe co
 Otro archivo es el "config.txt", en este archivo se introducen la uri, el user y la password de la base de datos. Se deberán modificar los valores para poner los datos de quien quiera ejecutar el programa.
  
 ## Execute
+
+La ejecución se realizó usando Ubuntu 20.04.
+
 Los comandos para ejecutar la aplicación son los siguientes (se debe estar en el repositorio PruebaTecnica-api):
 
 $ virtualenv flask
